@@ -1,6 +1,6 @@
 ## Einführung
 
-**Schneller, mehr, besser...**
+_Schneller, mehr, besser..._
 
 Im Dezember 1987 war ich 16 Jahre alt und stand vor einer Drehmaschine. Ich startete sie, woraufhin das Spannfutter auf 3600 Umdrehungen pro Minute beschleunigte und ein ca. 300 Gramm schweres, rechteckiges Stahlstück aus dem Futter schoss, direkt an meine Stirn. Gebremst wurde der Aufprall nur durch die Schutzbrille und den Stoff der Schirmmütze, die ich bei der Arbeit trug. Ich hatte Glück: dieses Stück war das stumpfere der beiden, die ich zum parallelen Einspannen des Werkstücks verwendet und dann zu entfernen vergessen hatte. Das schmalere Stück zischte dicht an meinem Kopf vorbei und schlug sieben Meter entfernt auf dem Arbeitstisch einer Kollegin ein.
 
